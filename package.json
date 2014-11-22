@@ -1,0 +1,29 @@
+{
+  "name": "typekit-shim",
+  "version": "0.0.1",
+  "author": {
+    "name": "Phil Jepsen",
+    "email": "phil@wired8.com"
+  },
+  "description": "browserify shim for typekit",
+  "main": "./typekit.js",
+  "browser": "./typekit.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wired8/typekit-shim.git"
+  },
+  "keywords": [
+    "typekit",
+    "browser",
+    "commonjs",
+    "browserify"
+  ],
+  "readme": "",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/wired8/typekit-shim/issues"
+  },
+  "homepage": "https://github.com/wired8/typekit-shim",
+  "_id": "typekit-shim@0.0.1",
+  "_from": "typekit-shim@^0.0.1"
+}
