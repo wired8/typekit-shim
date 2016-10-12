@@ -3,7 +3,6 @@
  * @param callback
  */
 function typekit(typeKitId, options) {
-  console.log("test");
   var el = document.createElement('script');
   el.src = '//use.typekit.net/' + typeKitId + '.js';
   el.onload = function() {
