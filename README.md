@@ -7,6 +7,8 @@ Usage:
 
 ```
 var typekit = require('typekit-shim');
-typekit('kitId');   // KitId is your seven-character alphanumeric typekit code
+typekit('kitId', options);   
+// KitId is your seven-character alphanumeric typekit code
+// options is typekit api options
 
 ```
